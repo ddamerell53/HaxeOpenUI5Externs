@@ -1,5 +1,7 @@
 # HaxeOpenUI5Externs 
 (WARNING - Placeholder Project - NOT READY FOR USE)
+
+Currently using yuidoc to parse openui5, but that will probably need to be changed
 ## Requirements
  NodeJS (https://nodejs.org/)
  

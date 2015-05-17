@@ -15,11 +15,14 @@ Make sure the node executable is available on your PATH along with the yuidoc ex
 ## Developing HaxeOpenUI5Externs 
 ```
   git clone https://github.com/ddamerell53/HaxeOpenUI5Externs.git
-
   cd HaxeOpenUI5Externs
-  
   openui5_build.bat
 ```
 
+You will find the externs in the output folder.
+
+To make changes to the externs that are built alter the build file build_openui5.xml
+
+You may need to make changes to the buildhx and yuidocjs projects to fill in gaps in the OpenUI5 documentation
 
 

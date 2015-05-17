@@ -1,0 +1,5 @@
+<build>
+    <source path="clones/openui5/src/sap.ui.commons/src" parser="yuidoc" />
+
+    <output path="output" namespace="openui5" native="openui5" />
+</build>
